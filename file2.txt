@@ -7,5 +7,6 @@ hiúz
 gepárd
 
 piros
-zöld
+zöld -fa
+
 
