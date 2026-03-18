@@ -1,2 +1,11 @@
 pisztráng
 makréla
+
+leopárd
+oroszlán
+hiúz
+gepárd
+
+piros
+zöld
+
