@@ -5,3 +5,7 @@ leopárd
 oroszlán
 hiúz
 gepárd
+
+piros
+zöld
+
